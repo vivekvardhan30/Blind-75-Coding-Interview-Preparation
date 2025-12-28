@@ -2,7 +2,7 @@
 
 This repository follows the **Blind 75** curated coding problems, grouped by **patterns**, and structured for **systematic interview prep**.
 
-**Language:** Python
+**Language:** Python<br>
 **Goal:** Master core patterns, not random questions.
 
 ---
