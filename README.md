@@ -168,39 +168,39 @@ blind-75/
 
 ### Week 1 – Foundations
 
-**Day 1–2:** Arrays
-**Day 3:** Strings
-**Day 4:** Binary
-**Day 5:** Linked Lists
-**Day 6:** Matrix
-**Day 7:** Review + redo weak problems
+**Day 1–2:** Arrays<br>
+**Day 3:** Strings<br>
+**Day 4:** Binary<br>
+**Day 5:** Linked Lists<br>
+**Day 6:** Matrix<br>
+**Day 7:** Review + redo weak problems<br>
 
 ---
 
 ### Week 2 – Core Patterns
 
-**Day 8–9:** Trees
-**Day 10–11:** Graphs
-**Day 12:** Intervals
-**Day 13:** Heap
-**Day 14:** Review
+**Day 8–9:** Trees<br>
+**Day 10–11:** Graphs<br>
+**Day 12:** Intervals<br>
+**Day 13:** Heap<br>
+**Day 14:** Review<br>
 
 ---
 
 ### Week 3 – DP + Backtracking
 
-**Day 15–16:** Dynamic Programming
-**Day 17:** Backtracking
-**Day 18:** Trie
-**Day 19–21:** Re-solve hardest problems
+**Day 15–16:** Dynamic Programming<br>
+**Day 17:** Backtracking<br>
+**Day 18:** Trie<br>
+**Day 19–21:** Re-solve hardest problems<br>
 
 ---
 
 ### Week 4 – Interview Simulation
 
-**Day 22–25:** Mixed daily sets (5/day)
-**Day 26–28:** Timed mock interviews
-**Day 29:** Final revision
+**Day 22–25:** Mixed daily sets (5/day)<br>
+**Day 26–28:** Timed mock interviews<br>
+**Day 29:** Final revision<br>
 **Day 30:** Confidence day 😎
 
 
